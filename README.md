@@ -1,19 +1,12 @@
 # Part-2
 
-
-            return recipe;
-        }
-    }
-}
-This implementation allows the user to enter the details for a single recipe, display the recipe, scale it by a factor, reset quantities, clear all data, and does not persist the data between runs. It uses classes to represent recipes and ingredients, and arrays to store ingredients and steps.
-
-Sure, here are the instructions to compile and run the software:
+ Here are the instructions to compile and run the software:
 
 Install Visual Studio: If you haven't already, download and install Visual Studio from the official Microsoft website. Ensure you have the required .NET development workload installed.
 
 Create a New Console Application Project: Open Visual Studio and create a new C# Console Application project. Name it "RecipeApp" or any other preferred name.
 
-Create a Code
+Create a c#Code
 
 Review and Modify Code (Optional): Review the code to ensure it meets your requirements. You can make modifications if necessary.
 
